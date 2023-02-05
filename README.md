@@ -1,3 +1,3 @@
 DONUT SHOP: a React task
 
-Deployed at: https://adorable-fox-6a8872.netlify.app/
+Deployed at: https://thriving-dusk-6d9e75.netlify.app/
