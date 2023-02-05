@@ -1,0 +1,55 @@
+.ready-screen-container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  font-weight: 700;
+  background: linear-gradient(-130.5deg, #21e8e5 35%, #5739d6 35%);
+}
+.message{
+    position: absolute;
+    width: 394px;
+    height: 132px;
+    left: 19px;
+    top: 538px;
+}
+.message>p {
+    
+    margin: 0;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    /* or 110% */
+    
+    text-align: right;
+    
+    color: #FFFFFF;
+    
+}
+
+.doneBtn{
+    position: absolute;
+width: 276px;
+height: 76px;
+left: 78px;
+top: 754px;
+
+background: #FFFFFF;
+
+
+
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #282828;
+
+}

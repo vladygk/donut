@@ -1,0 +1,96 @@
+.start-screen-container {
+  background: linear-gradient(120deg, #FFE84A 44.25%, #FF86B3 44.25%);
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  font-weight: 700;
+}
+
+.bigTitle {
+  position: absolute;
+  width: 373px;
+  height: 144px;
+  left: 32px;
+  top: 646px;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 72px;
+  /* or 75% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.smallTitle {
+  position: absolute;
+  width: 99px;
+  height: 72px;
+  left: 292px;
+  top: 592px;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.start-button {
+  position: absolute;
+  width: 276px;
+  height: 76px;
+  left: 71px;
+  top: 828px;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 72px;
+
+  border-style: none;
+  text-align: center;
+
+  color: #282828;
+  background: #ffffff;
+}
+
+.donut1 {
+  position: absolute;
+  left: -10%;
+
+  top: -4%;
+  bottom: 11.99%;
+  width: 255px;
+  height: 240px;
+  filter: drop-shadow(1px 20px 12px #EC7317); 
+}
+
+.donut2 {
+  width: 291px;
+  height: 289px;
+  position: absolute;
+  
+  right: -4%;
+  top: 18%;
+  filter: drop-shadow(1px 20px 12px #E44E8A);
+}
+
+.sparkles{
+  position: absolute;
+  scale:1.75;
+  top:-23%;
+  left: 20%;
+ 
+  
+  
+}

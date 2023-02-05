@@ -1,0 +1,258 @@
+.donutTitle1 {
+  position: absolute;
+  left: 17.99%;
+  right: 46.96%;
+  top: 28.73%;
+  bottom: 63.07%;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  /* or 106% */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.donutImage1 {
+  width: 118px;
+  height: 118px;
+  position: absolute;
+  z-index: 2;
+  right: 5.19%;
+  top: 26%;
+}
+.shadow1{
+    position: absolute;
+    width: 116px;
+    height: 116px;
+    
+    border-radius: 100%;
+    right: 5.19%;
+    top: 26%;
+    z-index: 1;
+    box-shadow:  0px 12px 5px #1fadc5;
+    
+}
+
+.shadowInner1{
+  position: absolute;
+  box-shadow:  inset 0px 8px 5px #1fadc5;
+  right: 13.8%;
+    top: 30%;
+    border-radius: 1px solid black;
+  width: 45px;
+  height: 43px;
+  border-radius: 100%;
+ 
+}
+
+
+.donutTitle2 {
+  position: absolute;
+  left: 17.99%;
+  right: 46.96%;
+  top: 47.19%;
+  bottom: 44.6%;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  /* or 106% */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.donutImage2 {
+  width: 118px;
+  height: 118px;
+  position: absolute;
+  
+  right: 5.19%;
+  top: 45%;
+  z-index: 2;
+}
+
+
+.shadow2{
+    position: absolute;
+    width: 116px;
+    height: 116px;
+ 
+    border-radius: 100%;
+    right: 5.19%;
+    top: 45%;
+    z-index: 1;
+    box-shadow:  0px 12px 5px #1fadc5;
+    
+}
+.shadowInner2{
+  position: absolute;
+  box-shadow:  inset 0px 8px 5px #1fadc5;
+  right: 14%;
+    top: 48.8%;
+    border-radius: 1px solid black;
+  width: 45px;
+  height: 43px;
+  border-radius: 100%;
+ 
+}
+
+
+.donutTitle3 {
+  position: absolute;
+  left: 21.03%;
+  right: 48.36%;
+  top: 66.41%;
+  bottom: 25.38%;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 38px;
+  /* or 106% */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+
+.donutImage3{
+    width: 118px;
+    height: 118px;
+    position: absolute;
+    z-index: 2;
+    right: 5.19%;
+    top: 64%;
+}
+
+.shadow3{
+    position: absolute;
+    width: 116px;
+    height: 116px;
+ 
+    border-radius: 100%;
+    right: 5.19%;
+    top: 64%;
+    z-index: 1;
+    box-shadow:  0px 12px 5px #1fadc5;
+    
+}
+.shadowInner3{
+  position: absolute;
+  box-shadow:  inset 0px 8px 5px #1fadc5;
+  right: 14.25%;
+    top: 68.1%;
+    border-radius: 1px solid black;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+ 
+}
+
+.donutTitle4{
+    position: absolute;
+left: 11.92%;
+right: 46.96%;
+top: 84.88%;
+bottom: 6.91%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 38px;
+/* or 106% */
+
+text-align: right;
+
+color: #FFFFFF;
+
+}
+
+
+.donutImage4{
+    width: 118px;
+    height: 118px;
+    position: absolute;
+    z-index: 2;
+    right: 5.19%;
+    top: 83%;
+}
+
+.shadow4{
+    position: absolute;
+    width: 116px;
+    height: 116px;
+ 
+    border-radius: 100%;
+    right: 5.19%;
+    top: 83%;
+    z-index: 1;
+    box-shadow:  0px 12px 5px #1fadc5;
+    
+}
+
+.shadowInner4{
+  position: absolute;
+  box-shadow:  inset 0px 6px 5px #1fadc5;
+  right: 14.5%;
+    top: 87.25%;
+    border-radius: 1px solid black;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+ 
+}
+
+.donutImage5{
+  position: absolute;
+  left:15%;
+  top:13%;
+  width: 291px;
+  height: 289px;
+  z-index: 2;
+}
+
+.shadow5{
+  position: absolute;
+  width: 290px;
+  height: 289px;
+
+  border-radius: 100%;
+  right: 17%;
+  top: 12%;
+  z-index: 1;
+  box-shadow:  0px 20px 5px #E28138;
+  
+}
+
+.shadowInner5{
+  position: absolute;
+  box-shadow:  inset 0px 24px 5px #E28138;
+  left:36%;
+  top:22%;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+ 
+}
+
+.donutImage6{
+  position: absolute;
+  left:15%;
+  top:13%;
+  width: 291px;
+  height: 289px;
+  z-index: 2;
+  filter:drop-shadow(0px 15px 10px #4E21A4)
+}

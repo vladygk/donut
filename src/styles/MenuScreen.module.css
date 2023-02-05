@@ -1,0 +1,47 @@
+.menuScreenContainer{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-weight: 700;
+    background-color: #21E8E5;
+}
+
+.bigTitle{
+    position: absolute;
+    left: 24.53%;
+    right: 8.41%;
+    top: 11.99%;
+    bottom: 80.24%;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 72px;
+    
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.smallTitle{
+    position: absolute;
+left: 68.46%;
+right: 8.41%;
+top: 6.16%;
+bottom: 86.07%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+

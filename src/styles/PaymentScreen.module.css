@@ -1,0 +1,110 @@
+.payment-screen-container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  font-weight: 700;
+  background-color: #ff86b3;
+}
+
+.bigTitle {
+  position: absolute;
+  left: 22.9%;
+  right: 19.16%;
+  top: 25.81%;
+  bottom: 66.41%;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 72px;
+  /* identical to box height, or 75% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.smallTitle {
+  position: absolute;
+  left: 42.29%;
+  right: 19.16%;
+  top: 19.98%;
+  bottom: 72.25%;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.middleTitle {
+    position: absolute;
+    left: 28.5%;
+    right: 17.76%;
+    top: 14.69%;
+    bottom: 77.54%;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 72px;
+    /* identical to box height, or 112% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.donut1{
+    position: absolute;
+    left:-30%;
+    bottom: 9%;
+    width: 234px;
+    height: 231px;
+    filter: drop-shadow(5px 15px 8px #E5508C);
+}
+.donut2{
+    position: absolute;
+    right:-22%;
+    bottom:-13.5%;
+    width: 275px;
+    height: 286px;
+    filter: drop-shadow(5px 15px 8px #E5508C);
+}
+
+.appleBtn{
+    position: absolute;
+width: 276px;
+height: 76px;
+left: 76px;
+top: 387px;
+
+background: #FFFFFF;
+}
+.googleBtn{
+    position: absolute;
+width: 276px;
+height: 76px;
+left: 76px;
+top: 504px;
+
+background: #FFFFFF;
+}
+.appleImg{
+    position: relative;
+    top:-25px;
+    
+    
+}
+.googleImg{
+    position: relative;
+    top:-25px;
+}
