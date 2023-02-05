@@ -5,6 +5,7 @@
   color: white;
   font-weight: 700;
   background: linear-gradient(-130.5deg, #21e8e5 35%, #5739d6 35%);
+  overflow: hidden;
 }
 .message{
     position: absolute;

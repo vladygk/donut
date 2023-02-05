@@ -5,6 +5,7 @@
     color: white;
     font-weight: 700;
     background-color: #FFE84A;
+    overflow: hidden;
 }
 
 .middleTitle{

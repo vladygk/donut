@@ -5,6 +5,7 @@
   color: white;
   font-weight: 700;
   background-color: #ff86b3;
+  overflow: hidden;
 }
 
 .bigTitle {
