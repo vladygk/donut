@@ -32,6 +32,7 @@
   width: 24vw;
   height: 7vh;
   right: 10.5vw;
+  left:65.5vw;
   bottom: 29vh;
 
   font-family: "Outfit";
@@ -70,7 +71,7 @@
 .donut1 {
   position: absolute;
   left: -10vw;
-
+  right: 50vw;
   top: -4vh;
   bottom: 11.99%;
   width: 60vw;
@@ -82,7 +83,7 @@
   width: 66vw;
   height: 29vh;
   position: absolute;
-
+right:38vw;
   right: -4vw;
   top: 18vh;
   filter: drop-shadow(0.1vh 1.5vh 1.2vh #e44e8a);

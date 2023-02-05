@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import styles from "../styles/PreparationScreent.module.css";
+import styles from "../styles/PreparationScreen.module.css";
 import Title from "./TitleComponent";
 import sparcles from "../assets/sparkles.svg"
 import DonutComponent from "./DonutComponent";

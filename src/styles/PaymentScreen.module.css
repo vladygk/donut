@@ -86,7 +86,8 @@
   width: 65vw;
   height: 8.6vh;
   left: 17.5vw;
-  top: 41.5vh;
+  top: 41.4vh;
+  bottom:50vh;
   border-style: none;
   background: #ffffff;
 }
@@ -95,7 +96,8 @@
   width: 65vw;
   height: 8.6vh;
   left: 17.5vw;
-  top: 54vh;
+  top: 54.4vh;
+  bottom: 37vh;
   border-style: none;
   background: #ffffff;
 }
