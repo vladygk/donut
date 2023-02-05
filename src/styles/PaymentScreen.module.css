@@ -103,11 +103,21 @@
 }
 .appleImg {
   position: absolute;
-  top: -2.9vh;
-  left: 16vw;
+  top:-1.5vh;
+  left:20vw;
+  z-index: 2;
+  overflow: hidden;
 }
 .googleImg {
   position: absolute;
-  top: -2.9vh;
-  left: 16vw;
+  top: -1.5vh;
+  left: 20vw;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.img{
+    
+    height:12vh;
+    
 }

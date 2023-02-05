@@ -29,14 +29,14 @@ const location = useLocation();
           navigate("/preparation",{state:{"donut":location.state.donut}});
         }}
       >
-        <img src={appleImg} className={styles.appleImg} alt="" />
+        <div className={styles.appleImg}><img src={appleImg} className={styles.img}  alt="" /></div>
       </button>
       <button className={styles.googleBtn}
         onClick={() => {
           navigate("/preparation",{state:{"donut":location.state.donut}});
         }}
       >
-        <img src={googleImg} className={styles.googleImg} alt="" />
+       <div className={styles.googleImg}><img src={googleImg} className={styles.img} alt="" /></div> 
       </button>
       </div>
     </div>
