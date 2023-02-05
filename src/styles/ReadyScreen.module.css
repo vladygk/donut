@@ -8,10 +8,12 @@
   overflow: hidden;
 }
 .message{
+    
+    
     position: absolute;
     width: 99vw;
     height: 12.5vh;
-    left:-1vw;
+    right:5vw;
     bottom: 30vh;
 }
 .message>p {
@@ -20,7 +22,7 @@
     font-family: 'Outfit';
     font-style: normal;
     font-weight: 900;
-    font-size: 4.4vh;
+    font-size: 4.2vh;
     line-height: 4.5vh;
     /* or 110% */
     
@@ -38,10 +40,6 @@ left: 20vw;
 bottom: 11vh;
 border-style: none;
 background: #FFFFFF;
-
-
-
-
 font-family: 'Outfit';
 font-style: normal;
 font-weight: 900;
