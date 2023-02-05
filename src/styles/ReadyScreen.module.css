@@ -11,13 +11,31 @@
     
     
     position: absolute;
-    width: 90vw;
+   
+    width: 96vw;
     height: 12.5vh;
-    right:5vw;
-    left:5vw;
+   left:2vw;
+   right:2vw;
     bottom: 30vh;
+    
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
 }
-.message>p {
+
+.paragraphs{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: right;
+    
+    
+    
+}
+
+.paragraphs>p {
+    
     
     margin: 0;
     font-family: 'Outfit';
