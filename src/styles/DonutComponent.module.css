@@ -22,7 +22,7 @@
   height: 14vh;
   position: absolute;
   z-index: 2;
-  right: 5.19vw;
+  right: 8.19vw;
   top: 26vh;
 }
 .shadow1 {
@@ -31,7 +31,7 @@
   height: 12.9vh;
 
   border-radius: 100%;
-  right: 5.19vw;
+  right: 8.3vw;
   top: 26vh;
   z-index: 1;
   box-shadow: 0px 1.8vh 0.4vh #1fadc5;
@@ -40,8 +40,8 @@
 .shadowInner1 {
   position: absolute;
   box-shadow: inset 0px 1vh 0.4vh #1fadc5;
-  right: 13.8vw;
-  top: 30.5vh;
+  right: 16.8vw;
+  top: 30.4vh;
 
   width: 11vw;
   height: 4.4vh;
@@ -72,7 +72,7 @@
   height: 14vh;
   position: absolute;
 
-  right: 5.19vw;
+  right: 8.19vw;
   top: 45vh;
   z-index: 2;
 }
@@ -83,7 +83,7 @@
   height: 12.9vh;
 
   border-radius: 100%;
-  right: 5.19vw;
+  right: 8.19vw;
   top: 45vh;
   z-index: 1;
   box-shadow: 0 1.8vh 0.4vh #1fadc5;
@@ -91,8 +91,8 @@
 .shadowInner2 {
   position: absolute;
   box-shadow: inset 0 1vh 0.4vh #1fadc5;
-  right: 14vw;
-  top: 49.6vh;
+  right: 17vw;
+  top: 49.4vh;
 
   width: 11vw;
   height: 4.4vh;
@@ -123,7 +123,7 @@
   height: 14vh;
   position: absolute;
   z-index: 2;
-  right: 5.19vw;
+  right: 8.19vw;
   top: 64vh;
 }
 
@@ -133,7 +133,7 @@
   height: 12.9vh;
 
   border-radius: 100%;
-  right: 5.19vw;
+  right: 8.19vw;
   top: 64vh;
   z-index: 1;
   box-shadow: 0 1.8vh 0.4vh #1fadc5;
@@ -141,8 +141,8 @@
 .shadowInner3 {
   position: absolute;
   box-shadow: inset 0 1vh 0.4vh #1fadc5;
-  right: 14.25vw;
-  top: 68.7vh;
+  right: 17.25vw;
+  top: 68.6vh;
 
   width: 11vw;
   height: 4.4vh;
@@ -173,7 +173,7 @@
   height: 14vh;
   position: absolute;
   z-index: 2;
-  right: 5.19vw;
+  right: 8.19vw;
   top: 83vh;
 }
 
@@ -183,7 +183,7 @@
   height: 12.9vh;
 
   border-radius: 100%;
-  right: 5.19vw;
+  right: 8.19vw;
   top: 83vh;
   z-index: 1;
   box-shadow: 0 1.8vh 0.4vh #1fadc5;
@@ -192,8 +192,8 @@
 .shadowInner4 {
   position: absolute;
   box-shadow: inset 0 1vh 0.4vh #1fadc5;
-  right: 14.5vw;
-  top: 87.88vh;
+  right: 17.5vw;
+  top: 87.6vh;
   
   width: 11vw;
   height: 4.4vh;
