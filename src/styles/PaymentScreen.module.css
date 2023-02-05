@@ -10,16 +10,16 @@
 
 .bigTitle {
   position: absolute;
-  left: 22.9%;
-  right: 19.16%;
-  top: 25.81%;
-  bottom: 66.41%;
+  left: 22.9vw;
+  right: 19.16vw;
+  top: 25.81vh;
+  bottom: 66.41vh;
 
   font-family: "Outfit";
   font-style: normal;
   font-weight: 900;
-  font-size: 96px;
-  line-height: 72px;
+  font-size: 10vh;
+  line-height: 8vh;
   /* identical to box height, or 75% */
 
   text-align: center;
@@ -29,16 +29,16 @@
 
 .smallTitle {
   position: absolute;
-  left: 42.29%;
-  right: 19.16%;
-  top: 19.98%;
-  bottom: 72.25%;
+  left: 42.29vw;
+  right: 19.16vw;
+  top: 19.98vh;
+  bottom: 72.25vh;
 
   font-family: "Outfit";
   font-style: normal;
   font-weight: 900;
-  font-size: 48px;
-  line-height: 72px;
+  font-size: 5vh;
+  line-height: 8.2vh;
   /* identical to box height, or 150% */
 
   text-align: center;
@@ -46,66 +46,64 @@
   color: #ffffff;
 }
 .middleTitle {
-    position: absolute;
-    left: 28.5%;
-    right: 17.76%;
-    top: 14.69%;
-    bottom: 77.54%;
-    
-    font-family: 'Outfit';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 64px;
-    line-height: 72px;
-    /* identical to box height, or 112% */
-    
-    text-align: center;
-    
-    color: #FFFFFF;
+  position: absolute;
+  left: 28.5%;
+  right: 17.76%;
+  top: 14.69%;
+  bottom: 77.54%;
+
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 6.6vh;
+  line-height: 8vh;
+  /* identical to box height, or 112% */
+
+  text-align: center;
+
+  color: #ffffff;
 }
 
-.donut1{
-    position: absolute;
-    left:-30%;
-    bottom: 9%;
-    width: 234px;
-    height: 231px;
-    filter: drop-shadow(5px 15px 8px #E5508C);
+.donut1 {
+  position: absolute;
+  left: -30vw;
+  bottom: 6vh;
+  width: 55vw;
+  height: 27vh;
+  filter: drop-shadow(1vh 2vh 1vh #e5508c);
 }
-.donut2{
-    position: absolute;
-    right:-22%;
-    bottom:-13.5%;
-    width: 275px;
-    height: 286px;
-    filter: drop-shadow(5px 15px 8px #E5508C);
+.donut2 {
+  position: absolute;
+  right: -23.5vw;
+  bottom: -13.5vh;
+  width: 67vw;
+  height: 35vh;
+  filter: drop-shadow(0 3.5vh 1vh #e5508c);
 }
 
-.appleBtn{
-    position: absolute;
-width: 276px;
-height: 76px;
-left: 76px;
-top: 387px;
-
-background: #FFFFFF;
+.appleBtn {
+  position: absolute;
+  width: 65vw;
+  height: 8.6vh;
+  left: 17.5vw;
+  top: 41.5vh;
+  border-style: none;
+  background: #ffffff;
 }
-.googleBtn{
-    position: absolute;
-width: 276px;
-height: 76px;
-left: 76px;
-top: 504px;
-
-background: #FFFFFF;
+.googleBtn {
+  position: absolute;
+  width: 65vw;
+  height: 8.6vh;
+  left: 17.5vw;
+  top: 54vh;
+  border-style: none;
+  background: #ffffff;
 }
-.appleImg{
-    position: relative;
-    top:-25px;
-    
-    
+.appleImg {
+  position: relative;
+  top: -2.3vh;
 }
-.googleImg{
-    position: relative;
-    top:-25px;
+.googleImg {
+  position: relative;
+  top: -2.3vh;
 }

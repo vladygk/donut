@@ -10,16 +10,16 @@
 
 .bigTitle {
   position: absolute;
-  width: 373px;
-  height: 144px;
-  left: 32px;
-  bottom: 136px;
+  width: 80vw;
+  height: 15vh;
+  left: 8vw;
+  bottom: 15vh;
 
   font-family: "Outfit";
   font-style: normal;
   font-weight: 900;
-  font-size: 96px;
-  line-height: 72px;
+  font-size: 9.9vh;
+  line-height: 7.6vh;
   /* or 75% */
 
   text-align: center;
@@ -29,16 +29,16 @@
 
 .smallTitle {
   position: absolute;
-  width: 99px;
-  height: 72px;
-  left: 300px;
-  bottom: 265px;
+  width: 24vw;
+  height: 7vh;
+  right: 10.5vw;
+  bottom: 29vh;
 
   font-family: "Outfit";
   font-style: normal;
   font-weight: 900;
-  font-size: 48px;
-  line-height: 72px;
+  font-size: 5.3vh;
+  line-height: 7.8vh;
   /* identical to box height, or 150% */
 
   text-align: center;
@@ -48,18 +48,18 @@
 
 .start-button {
   position: absolute;
-  width: 276px;
-  height: 76px;
-  left: 71px;
-  bottom: 20px;
+  width: 65vw;
+  height: 8vh;
+  left: 17.5vw;
+  bottom: 2.5vh;
   border-style: none;
   background: #ffffff;
 
   font-family: "Outfit";
   font-style: normal;
   font-weight: 900;
-  font-size: 48px;
-  line-height: 72px;
+  font-size: 5.3vh;
+  line-height: 7.8vh;
   /* identical to box height, or 150% */
 
   text-align: center;
@@ -69,28 +69,28 @@
 
 .donut1 {
   position: absolute;
-  left: -10%;
+  left: -10vw;
 
-  top: -4%;
+  top: -4vh;
   bottom: 11.99%;
-  width: 255px;
-  height: 240px;
-  filter: drop-shadow(1px 20px 12px #ec7317);
+  width: 60vw;
+  height: 27vh;
+  filter: drop-shadow(0.1vh 1.5vh 1.2vh #ec7317);
 }
 
 .donut2 {
-  width: 291px;
-  height: 289px;
+  width: 66vw;
+  height: 29vh;
   position: absolute;
 
-  right: -4%;
-  top: 18%;
-  filter: drop-shadow(1px 20px 12px #e44e8a);
+  right: -4vw;
+  top: 18vh;
+  filter: drop-shadow(0.1vh 1.5vh 1.2vh #e44e8a);
 }
 
 .sparkles {
   position: absolute;
   scale: 1.75;
-  top: -23%;
-  left: 20%;
+  top: -23vh;
+  left: 20vw;
 }

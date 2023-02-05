@@ -10,16 +10,16 @@
 
 .bigTitle{
     position: absolute;
-    left: 24.53%;
-    right: 8.41%;
-    top: 11.99%;
-    bottom: 80.24%;
+    left: 24.53vw;
+    right: 8.41vw;
+    top: 11.99vh;
+    bottom: 80.24vh;
     
     font-family: 'Outfit';
     font-style: normal;
     font-weight: 900;
-    font-size: 96px;
-    line-height: 72px;
+    font-size: 10vh;
+    line-height: 8vh;
     
     
     text-align: center;
@@ -29,16 +29,16 @@
 
 .smallTitle{
     position: absolute;
-left: 68.46%;
-right: 8.41%;
-top: 6.16%;
-bottom: 86.07%;
+left: 67vw;
+right: 8.41vw;
+top: 6.16vh;
+bottom: 86.07vh;
 
 font-family: 'Outfit';
 font-style: normal;
 font-weight: 900;
-font-size: 48px;
-line-height: 72px;
+font-size: 5vh;
+line-height: 8vh;
 /* identical to box height, or 150% */
 
 text-align: center;

@@ -11,16 +11,16 @@
 .middleTitle{
     
 position: absolute;
-width: 229px;
-height: 72px;
-left: 104px;
-top: 549px;
+width: 50vw;
+height: 10vh;
+left: 24vw;
+bottom: 31vh;
 
 font-family: 'Outfit';
 font-style: normal;
 font-weight: 900;
-font-size: 40px;
-line-height: 72px;
+font-size: 4.4vh;
+line-height: 8vh;
 /* identical to box height, or 180% */
 
 text-align: center;
@@ -33,6 +33,6 @@ color: #FFFFFF;
 .sparkles{
     scale:1.3;
     position: absolute;
-    top:-10%;
+    top:-10vh;
 }
 

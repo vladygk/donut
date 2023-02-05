@@ -9,10 +9,10 @@
 }
 .message{
     position: absolute;
-    width: 394px;
-    height: 132px;
-    left: 19px;
-    top: 538px;
+    width: 99vw;
+    height: 12.5vh;
+    left:-1vw;
+    bottom: 30vh;
 }
 .message>p {
     
@@ -20,8 +20,8 @@
     font-family: 'Outfit';
     font-style: normal;
     font-weight: 900;
-    font-size: 40px;
-    line-height: 44px;
+    font-size: 4.4vh;
+    line-height: 4.5vh;
     /* or 110% */
     
     text-align: right;
@@ -32,11 +32,11 @@
 
 .doneBtn{
     position: absolute;
-width: 276px;
-height: 76px;
-left: 78px;
-top: 754px;
-
+width: 60vw;
+height: 8.1vh;
+left: 20vw;
+bottom: 11vh;
+border-style: none;
 background: #FFFFFF;
 
 
@@ -45,8 +45,8 @@ background: #FFFFFF;
 font-family: 'Outfit';
 font-style: normal;
 font-weight: 900;
-font-size: 48px;
-line-height: 72px;
+font-size: 5.3vh;
+line-height: 8vh;
 /* identical to box height, or 150% */
 
 text-align: center;
